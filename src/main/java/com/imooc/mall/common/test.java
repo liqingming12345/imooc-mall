@@ -1,4 +1,4 @@
-package com.imooc.mall.common;
+ackage com.imooc.mall.common;
 
-public class test {
+public class Test {
 }

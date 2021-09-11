@@ -1,2 +1,4 @@
-package com.imooc.mall.common;public class Hello {
+package com.imooc.mall.common;
+
+public class Hello {
 }
